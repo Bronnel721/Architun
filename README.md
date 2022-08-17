@@ -1,2 +1,2 @@
 # Architun
-A font based on handwriting that I saw on a image on GitHub
+Architun is a font based on handwriting that I saw on an image on GitHub.
