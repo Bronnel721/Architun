@@ -1,5 +1,15 @@
 # Architun
 ![rect21917](https://user-images.githubusercontent.com/92538982/185666459-81787e34-8b26-468f-84e8-20fd6d9c4e2e.png)
-Architun is a font based on handwriting that I saw on an image on GitHub.
-![a](https://user-images.githubusercontent.com/92538982/185662630-50989bfb-6c81-439d-a4b8-98ada2799f7f.jpg)
-The part where the font is based on is when it says “Hair Cuting Saloon” or what it actually is called “Hair Cutting Salon”.
+Architun is a comic book-style font brought to you by Sayhone. *(Or Sayhone721.)*
+# Origin
+This font was based on an image that I saw on GitHub and then I vectorized it with FontForge. *(Also if you’re wondering, I didn’t auto trace the image.)*
+
+![a](https://user-images.githubusercontent.com/92538982/186687544-59e30a40-8fce-4f1d-89c2-4ab377296146.jpg)
+
+This was the image cropped with Microsoft Photos.
+# Weights & Styles
+There’s currently only one weight, and that weight is Medium, but there will be more weights in the future.
+# Glyphs
+There’s currently 172 glyphs in the font, but just like the weights, there will be more in the future.
+# License
+The license for this font is licensed under the SIL Open Font License 1.1. So you can modify it, as long as they are not sold by themselves.
