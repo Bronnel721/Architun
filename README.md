@@ -1,5 +1,5 @@
 # Architun
-![rect21917](https://user-images.githubusercontent.com/92538982/185666459-81787e34-8b26-468f-84e8-20fd6d9c4e2e.png)
+![architun_1](https://user-images.githubusercontent.com/92538982/195961552-69d8d1c1-9c3e-49d2-af0a-2ec935d0b410.svg)
 Architun is a comic book-style font brought to you by Sayhone. *(Or Sayhone721.)*
 # Origin
 This font was based on an image that I saw on GitHub and then I vectorized it with FontForge. *(Also if you’re wondering, I didn’t auto trace the image.)*
