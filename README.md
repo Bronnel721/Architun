@@ -12,6 +12,6 @@ There’s currently 931 glyphs in the font, but just like the weights, there wil
 ![architun_4](https://user-images.githubusercontent.com/92538982/195962830-918f3e14-1feb-4cb5-86b2-5fac272b94de.svg)
 # Features
 ![architun_5](https://user-images.githubusercontent.com/92538982/195963267-c1b795d2-f35b-42ec-9598-e2b9b0619e67.svg)
-![architun_6_text](https://user-images.githubusercontent.com/92538982/195963585-d7ed52b5-e7a1-42c8-a027-da287a660c41.svg)
+![architun_6](https://user-images.githubusercontent.com/92538982/195963615-9f0acc26-0aa1-42ab-a2f9-8270caa05e85.svg)
 # License
 The license for this font is licensed under the SIL Open Font License 1.1. So you can modify it, as long as they are not sold by themselves.
