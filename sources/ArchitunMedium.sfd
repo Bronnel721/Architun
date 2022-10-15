@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1660707410
-ModificationTime: 1665807075
+ModificationTime: 1665807999
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -105,7 +105,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65367 27 9
+WinInfo: 837 27 9
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-8"""  "Anchor-4"""  "Anchor-1"""  "Anchor-3"""  "Anchor-2"""  "Anchor-0""" 
@@ -312,6 +312,7 @@ SplineSet
  43.248046875 0 27.8251953125 29.8837890625 30.248046875 160 c 4
  37.248046875 536 24.9719010586 628.394428355 82.248046875 635 c 4
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: U
@@ -6425,6 +6426,7 @@ LayerCount: 2
 Fore
 Refer: 202 771 N 1 0 0 1 81.0104 155 2
 Refer: 5 78 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Ograve
@@ -8031,6 +8033,7 @@ LayerCount: 2
 Fore
 Refer: 199 769 N 1 0 0 1 195.01 160 2
 Refer: 5 78 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: nacute
@@ -8052,6 +8055,7 @@ LayerCount: 2
 Fore
 Refer: 201 780 N 1 0 0 1 121.01 182 2
 Refer: 5 78 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: ncaron
@@ -8181,6 +8185,7 @@ LayerCount: 2
 Fore
 Refer: 212 806 N 1 0 0 1 94.0104 -154 2
 Refer: 5 78 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni0146
@@ -9173,6 +9178,7 @@ LayerCount: 2
 Fore
 Refer: 18 74 N 1 0 0 1 488 0 2
 Refer: 5 78 N 1 0 0 1 0 0 2
+Validated: 5
 EndChar
 
 StartChar: uni01CB
@@ -9183,6 +9189,7 @@ LayerCount: 2
 Fore
 Refer: 63 106 N 1 0 0 1 488 0 2
 Refer: 5 78 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni01CC
@@ -9823,6 +9830,7 @@ LayerCount: 2
 Fore
 Refer: 198 768 N 1 0 0 1 102.01 160 2
 Refer: 5 78 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni01F9
@@ -10510,6 +10518,7 @@ LayerCount: 2
 Fore
 Refer: 207 775 N 1 0 0 1 170.6 155 2
 Refer: 5 78 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni1E45
@@ -10531,6 +10540,7 @@ LayerCount: 2
 Fore
 Refer: 344 803 N 1 0 0 1 161.6 -67 2
 Refer: 5 78 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni1E47
@@ -13920,7 +13930,7 @@ EndChar
 
 StartChar: alpha
 Encoding: 945 945 768
-Width: 452
+Width: 466
 VWidth: 800
 Flags: HW
 AnchorPoint: "Anchor-2" 201.669 -15 basechar 0
@@ -13942,7 +13952,6 @@ SplineSet
  345.047265002 51.0279139597 349.668945312 -3 397.668945312 0 c 0
  455.616210938 3.6220703125 460.459879485 58.9134980876 454.668945312 82 c 0
 EndSplineSet
-Validated: 524325
 EndChar
 
 StartChar: beta
@@ -14182,7 +14191,7 @@ EndChar
 
 StartChar: iota
 Encoding: 953 953 776
-Width: 328
+Width: 316
 VWidth: 800
 Flags: HW
 HStem: 0 21G<90.9902 110.99> 492.8 20G<85.1099 102.507>
@@ -14203,7 +14212,6 @@ SplineSet
  51.3037109375 500.333007812 76.4111328125 512.799804688 93.80859375 512.799804688 c 0
  111.205078125 512.799804688 137.311523438 500.07421875 145.291992188 471.239257812 c 0
 EndSplineSet
-Validated: 524321
 EndChar
 
 StartChar: kappa
@@ -14405,7 +14413,7 @@ EndChar
 
 StartChar: pi
 Encoding: 960 960 783
-Width: 566
+Width: 565
 Flags: HW
 LayerCount: 2
 Fore
@@ -14438,7 +14446,6 @@ SplineSet
  17.453125 365.778320312 21.490234375 424.2109375 51.521484375 440.084960938 c 0
  96.1220703125 463.66015625 220.889648438 479 307.0078125 484 c 0
 EndSplineSet
-Validated: 524325
 EndChar
 
 StartChar: rho
@@ -17303,13 +17310,12 @@ EndChar
 
 StartChar: iotadieresistonos
 Encoding: 912 912 897
-Width: 328
-Flags: H
+Width: 316
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 896 901 S 1 0 0 1 -114.325 76.5757 2
 Refer: 776 953 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: upsilondieresistonos
@@ -17325,13 +17331,12 @@ EndChar
 
 StartChar: alphatonos
 Encoding: 940 940 899
-Width: 452
-Flags: H
+Width: 466
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 760 900 S 1 0 0 1 166.062 67.0953 2
 Refer: 768 945 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar
 
 StartChar: epsilontonos
@@ -17358,24 +17363,22 @@ EndChar
 
 StartChar: iotatonos
 Encoding: 943 943 902
-Width: 328
-Flags: H
+Width: 316
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 760 900 S 1 0 0 1 41.1525 72.5757 2
 Refer: 776 953 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: iotadieresis
 Encoding: 970 970 903
-Width: 328
-Flags: H
+Width: 316
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 206 776 N 1 0 0 1 -61 32 2
 Refer: 776 953 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: upsilondieresis
@@ -18064,6 +18067,7 @@ SplineSet
  39.544921875 629 52.544921875 641 74.544921875 641 c 0
  96.544921875 641 123.453125 628.751953125 133.544921875 601 c 0
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: I_I
@@ -18097,6 +18101,7 @@ SplineSet
  39.544921875 629 52.544921875 641 74.544921875 641 c 0
  96.544921875 641 123.453125 628.751953125 133.544921875 601 c 0
 EndSplineSet
+Validated: 524321
 Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" I I
 LCarets2: 1 0
 EndChar
@@ -18140,6 +18145,7 @@ SplineSet
  43.248046875 0 27.8251953125 29.8837890625 30.248046875 160 c 0
  37.248046875 536 24.9719010586 628.394428355 82.248046875 635 c 0
 EndSplineSet
+Validated: 524321
 Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" N N
 LCarets2: 1 0
 EndChar
@@ -18176,6 +18182,7 @@ SplineSet
  96.91796875 -21.4052734375 21.6240234375 87.9970703125 25.470703125 286 c 0
  29.7041015625 503.874023438 163.9296875 628.309570312 267.470703125 638 c 0
 EndSplineSet
+Validated: 524321
 Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" O O
 LCarets2: 1 0
 EndChar
@@ -18216,6 +18223,7 @@ SplineSet
  113.578669894 -28.0490354983 33.412109375 6.005859375 31.142578125 136 c 0
  29.388065322 236.494929976 52.771484375 555.29296875 58.177734375 590 c 0
 EndSplineSet
+Validated: 524321
 Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" L L
 LCarets2: 1 0
 EndChar
@@ -18271,6 +18279,7 @@ SplineSet
  29.2255859375 -16 16.419921875 11.1591796875 29.2255859375 74 c 0
  47.9951171875 166.104492188 151.997070312 562.349609375 175.225585938 603 c 0
 EndSplineSet
+Validated: 524325
 Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" A A
 LCarets2: 1 0
 EndChar
