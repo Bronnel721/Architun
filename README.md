@@ -10,6 +10,6 @@ This was the image cropped with Microsoft Photos.
 # Weights & Styles
 There’s currently only one weight, and that weight is Medium, but there will be more weights in the future.
 # Glyphs
-There’s currently 172 glyphs in the font, but just like the weights, there will be more in the future.
+There’s currently 931 glyphs in the font, but just like the weights, there will be more in the future.
 # License
 The license for this font is licensed under the SIL Open Font License 1.1. So you can modify it, as long as they are not sold by themselves.
