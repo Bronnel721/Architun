@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1660707410
-ModificationTime: 1665794643
+ModificationTime: 1665803700
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -57,11 +57,33 @@ Lookup: 1 0 0 "'ss10' Style Set 10 lookup 12" { "'ss10' Style Set 10 lookup 12-1
 Lookup: 1 0 0 "'ss11' Style Set 11 lookup 13" { "'ss11' Style Set 11 lookup 13-1"  } ['ss11' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss12' Style Set 12 lookup 15" { "'ss12' Style Set 12 lookup 15-1"  } ['ss12' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss13' Style Set 13 lookup 16" { "'ss13' Style Set 13 lookup 16-1" ("titl") } ['ss13' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution in Latin lookup 0" { "Single Substitution in Latin lookup 0 subtable"  } ['cros' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'titl' Titling lookup 11" { "'titl' Titling lookup 11-1"  } ['titl' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'swsh' Swash lookup 14" { "'swsh' Swash lookup 14-1" ("swash") } ['swsh' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "'calt' Contextual Alternates in Latin lookup 1" { "'calt' Contextual Alternates in Latin lookup 1 subtable"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [70,15,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ChainSub2: class "'calt' Contextual Alternates in Latin lookup 1 subtable" 2 2 2 2
+  Class: 3 I i
+  BClass: 660 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute ydieresis OE oe Scaron scaron Ydieresis Zcaron zcaron I.WithoutCrossbar
+  FClass: 660 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute ydieresis OE oe Scaron scaron Ydieresis Zcaron zcaron I.WithoutCrossbar
+ 1 1 0
+  ClsList: 1
+  BClsList: 1
+  FClsList:
+ 1
+  SeqLookup: 0 "Single Substitution in Latin lookup 0"
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 1
+ 1
+  SeqLookup: 0 "Single Substitution in Latin lookup 0"
+  ClassNames: "0" "1"
+  BClassNames: "0" "1"
+  FClassNames: "0" "1"
+EndFPST
 LangName: 1033
 OtfFeatName: 'ss01' 1033 "Alternate C"
 OtfFeatName: 'ss02' 1033 "Alternate 6"
@@ -81,11 +103,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 65367 27 9
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-8"""  "Anchor-4"""  "Anchor-1"""  "Anchor-3"""  "Anchor-2"""  "Anchor-0""" 
-BeginChars: 65587 929
+BeginChars: 65588 930
 
 StartChar: H
 Encoding: 72 72 0
@@ -195,6 +217,7 @@ SplineSet
  262.817382812 621 289.725585938 608.751953125 299.817382812 581 c 4
 EndSplineSet
 Validated: 524325
+Substitution2: "Single Substitution in Latin lookup 0 subtable" I.WithoutCrossbar
 EndChar
 
 StartChar: R
@@ -530,7 +553,6 @@ SplineSet
  113.578669894 -28.0490354983 33.412109375 6.005859375 31.142578125 136 c 0
  29.388065322 236.494929976 52.771484375 555.29296875 58.177734375 590 c 0
 EndSplineSet
-Validated: 524321
 EndChar
 
 StartChar: O
@@ -7986,7 +8008,6 @@ LayerCount: 2
 Fore
 Refer: 199 769 N 1 0 0 1 68 163 2
 Refer: 13 76 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: lacute
@@ -8052,7 +8073,6 @@ LayerCount: 2
 Fore
 Refer: 212 806 N 1 0 0 1 90 -176 2
 Refer: 13 76 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni013C
@@ -8074,7 +8094,6 @@ LayerCount: 2
 Fore
 Refer: 180 183 S 1 0 0 1 211.995 -22.2417 2
 Refer: 13 76 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: ldot
@@ -8114,7 +8133,6 @@ LayerCount: 2
 Fore
 Refer: 340 787 S 1 0 0 1 206 -62 2
 Refer: 13 76 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: lcaron
@@ -8137,7 +8155,6 @@ LayerCount: 2
 Fore
 Refer: 48 45 S 0.984808 0.173648 -0.173648 0.984808 29.8213 7.37019 2
 Refer: 13 76 N 1 0 0 1 22 0 2
-Validated: 5
 EndChar
 
 StartChar: lslash
@@ -9120,7 +9137,6 @@ LayerCount: 2
 Fore
 Refer: 18 74 N 1 0 0 1 426 0 2
 Refer: 13 76 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: uni01C8
@@ -9131,7 +9147,6 @@ LayerCount: 2
 Fore
 Refer: 63 106 N 1 0 0 1 426 0 2
 Refer: 13 76 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: uni01C9
@@ -10382,7 +10397,6 @@ LayerCount: 2
 Fore
 Refer: 344 803 N 1 0 0 1 157.59 -89 2
 Refer: 13 76 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E37
@@ -10405,7 +10419,6 @@ LayerCount: 2
 Fore
 Refer: 203 772 N 1 0 0 1 77 122 2
 Refer: 543 7734 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E39
@@ -16559,7 +16572,6 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 13 76 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni216D
@@ -18025,6 +18037,25 @@ SplineSet
  320.571289062 539.60546875 321.846679688 554.573242188 325.41015625 492.618164062 c 0
 EndSplineSet
 Validated: 524325
+EndChar
+
+StartChar: I.WithoutCrossbar
+Encoding: 65587 -1 929
+Width: 172
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+133.544921875 601 m 4
+ 141.544921875 579 142.544921875 554 142.544921875 492 c 4
+ 142.544921875 430 141.544921875 430 141.544921875 322 c 4
+ 141.544921875 213.92578125 138.544921875 35 128.544921875 22 c 4
+ 118.544921875 9 108.544921875 0 83.544921875 0 c 4
+ 58.544921875 0 34.544921875 6 32.544921875 54 c 4
+ 30.544921875 102 27.544921875 593 33.544921875 611 c 4
+ 39.544921875 629 52.544921875 641 74.544921875 641 c 4
+ 96.544921875 641 123.453125 628.751953125 133.544921875 601 c 4
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
