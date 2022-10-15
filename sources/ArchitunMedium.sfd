@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1660707410
-ModificationTime: 1665777996
+ModificationTime: 1665794643
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -56,6 +56,7 @@ Lookup: 1 0 0 "'ss09' Style Set 9 in Latin lookup 8" { "'ss09' Style Set 9 in La
 Lookup: 1 0 0 "'ss10' Style Set 10 lookup 12" { "'ss10' Style Set 10 lookup 12-1"  } ['ss10' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss11' Style Set 11 lookup 13" { "'ss11' Style Set 11 lookup 13-1"  } ['ss11' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss12' Style Set 12 lookup 15" { "'ss12' Style Set 12 lookup 15-1"  } ['ss12' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss13' Style Set 13 lookup 16" { "'ss13' Style Set 13 lookup 16-1" ("titl") } ['ss13' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'titl' Titling lookup 11" { "'titl' Titling lookup 11-1"  } ['titl' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'swsh' Swash lookup 14" { "'swsh' Swash lookup 14-1" ("swash") } ['swsh' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [70,15,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
@@ -1359,6 +1360,7 @@ SplineSet
 EndSplineSet
 Validated: 33
 Kerns2: 38 -50 "'kern' Horizontal Kerning in Latin lookup 0-1" 40 -200 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Substitution2: "'ss13' Style Set 13 lookup 16-1" period.titl
 Substitution2: "'titl' Titling lookup 11-1" period.titl
 EndChar
 
@@ -1410,6 +1412,7 @@ SplineSet
  4.51953125 -45.619140625 65.685546875 32.6220703125 96.16015625 89.1796875 c 0
 EndSplineSet
 Validated: 33
+Substitution2: "'ss13' Style Set 13 lookup 16-1" comma.titl
 Substitution2: "'titl' Titling lookup 11-1" comma.titl
 EndChar
 
@@ -1490,6 +1493,7 @@ SplineSet
  119.272460938 641 146.180664062 628.751953125 156.272460938 601 c 4
 EndSplineSet
 Validated: 33
+Substitution2: "'ss13' Style Set 13 lookup 16-1" exclam.titl
 Substitution2: "'titl' Titling lookup 11-1" exclam.titl
 EndChar
 
@@ -1520,6 +1524,7 @@ SplineSet
  151.8203125 -2.2646484375 130.38671875 18.4150390625 126.71875 69.2998046875 c 0
 EndSplineSet
 Validated: 524321
+Substitution2: "'ss13' Style Set 13 lookup 16-1" question.titl
 Substitution2: "'titl' Titling lookup 11-1" question.titl
 EndChar
 
@@ -3475,6 +3480,7 @@ SplineSet
  4.51953125 484.380859375 65.685546875 562.622070312 96.16015625 619.1796875 c 4
 EndSplineSet
 Validated: 33
+Substitution2: "'ss13' Style Set 13 lookup 16-1" quoteright.titl
 Substitution2: "'titl' Titling lookup 11-1" quoteright.titl
 EndChar
 
@@ -3492,6 +3498,7 @@ SplineSet
  108.94140625 683.647460938 141.845703125 659.520507812 161.685546875 622.700195312 c 0
 EndSplineSet
 Validated: 33
+Substitution2: "'ss13' Style Set 13 lookup 16-1" quoteleft.titl
 Substitution2: "'titl' Titling lookup 11-1" quoteleft.titl
 EndChar
 
@@ -3514,6 +3521,7 @@ SplineSet
  108.94140625 653.647460938 141.845703125 629.520507812 161.685546875 592.700195312 c 0
 EndSplineSet
 Validated: 33
+Substitution2: "'ss13' Style Set 13 lookup 16-1" quotedblleft.titl
 Substitution2: "'titl' Titling lookup 11-1" quotedblleft.titl
 EndChar
 
@@ -3536,6 +3544,7 @@ SplineSet
  4.51953125 484.380859375 65.685546875 562.622070312 96.16015625 619.1796875 c 4
 EndSplineSet
 Validated: 33
+Substitution2: "'ss13' Style Set 13 lookup 16-1" quotedblright.titl
 Substitution2: "'titl' Titling lookup 11-1" quotedblright.titl
 EndChar
 
@@ -12494,6 +12503,7 @@ SplineSet
  4.51953125 -35.619140625 65.685546875 42.6220703125 96.16015625 99.1796875 c 4
 EndSplineSet
 Validated: 524321
+Substitution2: "'ss13' Style Set 13 lookup 16-1" quotesinglbase.titl
 Substitution2: "'titl' Titling lookup 11-1" quotesinglbase.titl
 EndChar
 
@@ -12516,6 +12526,7 @@ SplineSet
  4.51953125 -35.619140625 65.685546875 42.6220703125 96.16015625 99.1796875 c 0
 EndSplineSet
 Validated: 33
+Substitution2: "'ss13' Style Set 13 lookup 16-1" quotedblbase.titl
 Substitution2: "'titl' Titling lookup 11-1" quotedblbase.titl
 EndChar
 
@@ -16019,6 +16030,7 @@ SplineSet
  237.486328125 628.366210938 176.3203125 550.125 145.845703125 493.567382812 c 4
 EndSplineSet
 Validated: 524321
+Substitution2: "'ss13' Style Set 13 lookup 16-1" quotereversed.titl
 Substitution2: "'titl' Titling lookup 11-1" quotereversed.titl
 EndChar
 
@@ -16041,6 +16053,7 @@ SplineSet
  407.486328125 598.366210938 346.3203125 520.125 315.845703125 463.567382812 c 4
 EndSplineSet
 Validated: 524321
+Substitution2: "'ss13' Style Set 13 lookup 16-1" uni201F.titl
 Substitution2: "'titl' Titling lookup 11-1" uni201F.titl
 EndChar
 
@@ -17906,6 +17919,7 @@ SplineSet
  272.8515625 641.198242188 300.291015625 629.192382812 311.603515625 601.532226562 c 0
  320.571289062 579.60546875 321.846679688 554.573242188 325.41015625 492.618164062 c 0
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: musicalnote
@@ -17934,6 +17948,7 @@ SplineSet
  278.8515625 601.198242188 306.291015625 589.192382812 317.603515625 561.532226562 c 0
  326.571289062 539.60546875 321.846679688 554.573242188 325.41015625 492.618164062 c 0
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: musicalnotedbl
@@ -17968,6 +17983,7 @@ SplineSet
  272.8515625 601.198242188 300.291015625 589.192382812 311.603515625 561.532226562 c 0
  320.571289062 539.60546875 321.846679688 554.573242188 325.41015625 492.618164062 c 0
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: uni266C
@@ -18008,6 +18024,7 @@ SplineSet
  272.8515625 601.198242188 300.291015625 589.192382812 311.603515625 561.532226562 c 0
  320.571289062 539.60546875 321.846679688 554.573242188 325.41015625 492.618164062 c 0
 EndSplineSet
+Validated: 524325
 EndChar
 EndChars
 EndSplineFont
