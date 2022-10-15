@@ -5,7 +5,7 @@ This font was based on an image that I saw on GitHub and then I vectorized it wi
 ![architun_2](https://user-images.githubusercontent.com/92538982/195966592-55609b56-f334-44db-9b83-6c797e0fcbc7.svg)
 ![architun_3](https://user-images.githubusercontent.com/92538982/195962551-915110f0-7eb7-4f71-b350-bbe3f11598f9.svg)
 ![architun_4](https://user-images.githubusercontent.com/92538982/195964467-510d7685-c67a-403c-8e9f-ce6c0909453a.svg)
-![architun_5](https://user-images.githubusercontent.com/92538982/195963267-c1b795d2-f35b-42ec-9598-e2b9b0619e67.svg)
+![architun_5](https://user-images.githubusercontent.com/92538982/195968400-03a9f30a-ffb7-43b4-a5af-0a5713835c9c.svg)
 ![architun_6](https://user-images.githubusercontent.com/92538982/195963615-9f0acc26-0aa1-42ab-a2f9-8270caa05e85.svg)
 # License
 The license for this font is licensed under the SIL Open Font License 1.1. So you can modify it, as long as they are not sold by themselves.
